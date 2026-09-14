@@ -1,4 +1,4 @@
-#include "lab1_sequential.h"
+#include "lab1_pthread.h"
 #include <bits/stdc++.h>
 #include <malloc.h>
 #include <cmath>

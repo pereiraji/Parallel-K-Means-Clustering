@@ -1,4 +1,4 @@
-#include "lab1_sequential.h"
+#include "lab1_omp.h"
 #include <bits/stdc++.h>
 #include <malloc.h>
 #include <cmath>
